@@ -2,4 +2,4 @@
 # test diff
 
 
-  feature-A
+  featA
